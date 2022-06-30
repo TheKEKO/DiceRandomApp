@@ -44,6 +44,10 @@
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                     </view>
+                    <connections>
+                        <outlet property="diceImageLeft" destination="2fL-fi-tVz" id="rt1-t5-7Yk"/>
+                        <outlet property="diceImageRight" destination="jV4-0r-xaG" id="tph-6L-lRs"/>
+                    </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
