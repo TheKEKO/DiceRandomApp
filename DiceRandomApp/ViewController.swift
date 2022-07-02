@@ -8,7 +8,6 @@
 import UIKit
 
 class ViewController: UIViewController {
-    
     @IBOutlet weak var diceImageLeft: UIImageView!
     @IBOutlet weak var diceImageRight: UIImageView!
     @IBOutlet weak var rollButton: UIButton!
